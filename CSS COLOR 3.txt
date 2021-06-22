@@ -1,0 +1,12 @@
+<style>
+span { border-color: #FFA500;  }
+span { border-color} rgb(255,165,0); }
+td.TdClassName
+{
+    border-color: #FFA500
+}
+.TagClassName
+{
+    Border-color: #FFA500
+}
+</style>
